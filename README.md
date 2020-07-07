@@ -1,6 +1,8 @@
 # Quelques outils pour apprendre et faire la différence entre ...
 
-## Comprenez bien
+## Pour bien démarrer
+
+Pour bien démarrer en programmation des point fondamentaux sont a comprendre et assimiler pour pouvoir evoluer dans les meilleures conditions possible
 
 **L'algorithmie**
 **!!! extrement importante !!!**  
