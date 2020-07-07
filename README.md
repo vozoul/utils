@@ -2,7 +2,7 @@
 
 ## Pour bien démarrer
 
-Pour bien démarrer en programmation des point fondamentaux sont a comprendre et assimiler pour pouvoir evoluer dans les meilleures conditions possible
+Pour bien démarrer en programmation des points fondamentaux sont à comprendre et assimiler pour pouvoir évoluer dans les meilleures conditions possibles.
 
 **L'algorithmie**
 **!!! extrement importante !!!**  
